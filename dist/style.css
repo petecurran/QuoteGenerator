@@ -1,0 +1,27 @@
+#quote-box {
+  margin:auto;
+  border-radius:25px;
+  width:50vw;
+  padding:50px;
+  background-color:white;
+  margin-top:10vh;
+}
+
+body{
+  background-color:black;
+}
+
+#share-box{
+  float:left;
+  align:left;
+  margin-top:5px;
+}
+
+#new-quote{
+  align:right;
+  float:right;
+}
+
+#quote-text{
+  margin-bottom:15px;
+}
